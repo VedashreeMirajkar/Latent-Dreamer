@@ -145,5 +145,5 @@ python -m pytest tests/ --cov=src/latent_dreamer --cov-report=term-missing
 
 ---
 
-Harsh Raj Singh
+Vedashree Mirajkar
 M.Sc Data Science & Big Data Analytics
